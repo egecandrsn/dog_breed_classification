@@ -28,6 +28,6 @@ The models are saved as TorchScript for deployment in other environments. The la
 The `requirements.txt` file lists the necessary libraries for running the code and the Streamlit app.
 
 ## Acknowledgments
-This code is developed as part of the Global AI Hub Akbank Deep Learning Bootcamp. The dataset is sourced from the Kaggle Dog Breed Identification competition.
+This code is developed as part of the Global AI Hub Aygaz Deep Learning Bootcamp. The dataset is sourced from the Kaggle Dog Breed Identification competition.
 
 Feel free to explore the notebook and try out the Streamlit app!
