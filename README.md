@@ -1,7 +1,7 @@
 # Dog Breed Classification
 
 ## Overview
-This repository is part of the Global AI Hub Akbank Deep Learning Bootcamp and focuses on building a dog breed classification model using PyTorch. The code downloads and preprocesses the data from the Kaggle Dog Breed Identification competition and then trains two models: a custom VGG-16 model and a transfer learning-based ResNet model. The training process, including data loading, model creation, and training loops, is outlined in the notebook. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egecandrsn/dog_breed_classification/blob/main/dog_breed_classification.ipynb)
+This repository is part of the Global AI Hub Aygaz Deep Learning Bootcamp and focuses on building a dog breed classification model using PyTorch. The code downloads and preprocesses the data from the Kaggle Dog Breed Identification competition and then trains two models: a custom VGG-16 model and a transfer learning-based ResNet model. The training process, including data loading, model creation, and training loops, is outlined in the notebook. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egecandrsn/dog_breed_classification/blob/main/dog_breed_classification.ipynb)
 
 ## Data Preparation
 The data is downloaded from Kaggle using provided URLs, including training images and labels. The images are organized into subdirectories based on their breed names, following the format required by torchvision's ImageFolder. The notebook visualizes random samples from the dataset to check for correctness and notes the class imbalance, prompting consideration for modified loss functions.
